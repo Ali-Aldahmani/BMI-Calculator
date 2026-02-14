@@ -14,6 +14,6 @@ Unlike traditional terminal-based scripts, this application features a fully des
 
 ### For General Users (macOS)
 You don't need Python installed to run this! 
-1. Go to the [Releases](../../releases) tab on the right side of this page.
+1. Go to the [Releases](https://github.com/Ali-Aldahmani/BMI-Calculator/releases/tag/v1.0.0) tab on the right side of this page.
 2. Download the latest `bmi.zip` file.
 3. Extract it, **Right-Click** the application, and select **Open**.
